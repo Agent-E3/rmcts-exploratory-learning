@@ -1,4 +1,4 @@
-# Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning
+# Teaching AI Agents to Search with Reflective-MCTS and Exploratory Learning
 
 [[Website]](https://agent-e3.github.io/rmcts-exploratory-learning/)
 [[arXiv]](https://arxiv.org/abs/2410.02052)
