@@ -5,11 +5,11 @@
 
 We present R-MCTS and Exploratory Learning for building o1-like models for agentic applications. Our **R-MCTS agent** extends traditional MCTS by 1) incorporating contrastive reflection, allowing agents to learn from past interactions and dynamically improve their search efficiency; and 2) using multi-agent debate to provide reliable state evaluation.
 
-<img src="videos/rmcts-simplified.gif" alt="">
+<img src="media/rmcts-simplified.gif" alt="">
 
 **Exploratory Learning** is a novel learning strategy that trains the models to explore the environment, evaluate a state, and backtrack to viable ones when it detects that the current state cannot lead to success. Our GPT-4o powered R-MCTS agent creates SOTA performance on VisualWebArena. Notably, R-MCTS and Exploratory Learning demonstrate the compute scaling properties in both training and testing time.
 
-<img style="aspect-ratio: 3.5;" src="videos/learning-data.gif">
+<img style="aspect-ratio: 3.5;" src="media/learning-data.gif">
 
 # TODOs
 
