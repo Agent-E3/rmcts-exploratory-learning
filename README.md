@@ -20,8 +20,8 @@ Codebase coming soon!
 If you methods or code useful, please consider citing our paper:
 
 ```bash
-@misc{yu2024improvingautonomousaiagents,
-      title={Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning}, 
+@misc{yu2024teachingaiagentssearch,
+      title={Teaching AI Agents to Search with Reflective-MCTS and Exploratory Learning}, 
       author={Xiao Yu and Baolin Peng and Vineeth Vajipey and Hao Cheng and Michel Galley and Jianfeng Gao and Zhou Yu},
       year={2024},
       eprint={2410.02052},
